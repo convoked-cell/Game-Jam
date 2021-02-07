@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Japanese School Modular Pack/demo/test.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
